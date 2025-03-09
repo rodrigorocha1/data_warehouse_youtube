@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "jE63SRo7pP7UnWcQ3pLAnc0up_8",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "BR",
+    "pageInfo": {
+        "totalResults": 33715,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g_R90Subzd-SKmfB_RN3NcE7fx4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7YawIvcrF2g"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-09T03:41:37Z",
+                "channelId": "UCpUd5vf6lvW9XeJkTTR8UGw",
+                "title": "The Autophage And Reaching The New Purple System - No Man&#39;s Sky In 2025",
+                "description": "Become A Supporter ▻ https://www.youtube.com/Games4Kickz/join Playlist ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7YawIvcrF2g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7YawIvcrF2g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7YawIvcrF2g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Games4Kickz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-09T03:41:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zGAAN8nQPo7W1o5mDN-EUCyCJMU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9ltg84nIAA0"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-05T16:00:10Z",
+                "channelId": "UC9sDOQDBX7ZURkb_zikk8Hw",
+                "title": "No Man&#39;s Sky on PSVR2 is FINALLY FIXED.... (again)",
+                "description": "Let's take a look at the new NMS Patch! My Twitter: https://twitter.com/jl_jammyhero?lang=en Join the DISCORD: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9ltg84nIAA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9ltg84nIAA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9ltg84nIAA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jammyhero",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-05T16:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "p3pQ0QFWc-Sy9aqsUlY00Kfl5QU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bwSPHpYhvi4"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-07T23:26:32Z",
+                "channelId": "UCPJXhXRkeSXngqwHo2PkncQ",
+                "title": "Speed Run Friday! No Man&#39;s Sky Titan Speed Runs",
+                "description": "We are doing speed runs and the times are getting close! I have my time at 1 hour 16 minutes but now @XainesWorld has his at 1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bwSPHpYhvi4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bwSPHpYhvi4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bwSPHpYhvi4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jason Plays",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-07T23:26:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WrBWCpMGtPC_1Fx1ef_coJOlpY4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rnIqpIpC3xM"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-06T21:46:59Z",
+                "channelId": "UCyRDNxCfxnRmzi10B8w7IoQ",
+                "title": "No Man&#39;s Sky #9 - Моя первая Экспедиция - Самый глубокий океан найден",
+                "description": "Водная Планета - Самый глубокий океан - В поисках мира как в Subnautica - Обнова No Man's Sky является ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rnIqpIpC3xM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rnIqpIpC3xM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rnIqpIpC3xM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JustBestGames",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-06T21:46:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Z-BSixEVUi4ga09gJ3Upo9bWUR8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZAAhPXa75Aw"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T23:12:19Z",
+                "channelId": "UCKAeRrte1yprWWPo1ACQzKg",
+                "title": "No Man&#39;s Sky Ferrite",
+                "description": "gaming #podcast #shorts #youtubeshorts #nomanssky.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZAAhPXa75Aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZAAhPXa75Aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZAAhPXa75Aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CapnSterlin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T23:12:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VNRVLAED2UwWfdVLslpKuIdEq-w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MUhbh9Rru24"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-07T01:48:07Z",
+                "channelId": "UCpUd5vf6lvW9XeJkTTR8UGw",
+                "title": "Starting Farming For Nanites And Units - No Man&#39;s Sky In 2025",
+                "description": "Become A Supporter ▻ https://www.youtube.com/Games4Kickz/join Playlist ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MUhbh9Rru24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MUhbh9Rru24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MUhbh9Rru24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Games4Kickz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-07T01:48:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vlbYM9TQzUT2rpaBPvnhSXfBQfM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "31HwrZeFaNk"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T22:49:02Z",
+                "channelId": "UC8DyBPEezjfv-3TZ9PlwQJA",
+                "title": "No Man&#39;s Sky : No man&#39;s in space",
+                "description": "nomanssky ,#nomansskylive ,#nomansky ,#nomanssky2025 ,#gaming ,#nomansskygameplay ,#nomansskygame Play List ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/31HwrZeFaNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/31HwrZeFaNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/31HwrZeFaNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KengKi Channel",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T22:49:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PSP_6FYVsbmAHfcH5Ykt_LB1054",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ppSnLWGEes8"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T23:13:22Z",
+                "channelId": "UCKAeRrte1yprWWPo1ACQzKg",
+                "title": "No Man&#39;s Sky Firestorm",
+                "description": "gaming #podcast #shorts #youtubeshorts #nomanssky.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ppSnLWGEes8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ppSnLWGEes8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ppSnLWGEes8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CapnSterlin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T23:13:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UxDKFqvozVdDaeiHBJk0x6uRMIM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6JFas_su31I"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T18:01:09Z",
+                "channelId": "UCk1LdRNPylDhOJp-E2zcfYA",
+                "title": "🔥UN CARRO DE FIXES! - No Man&#39;s Sky 5.58",
+                "description": "Hello Games acaba de publicar info sobre el parche 5.58 de No Man's Sky. Hablamos de la barbaridad de fixes que ha ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6JFas_su31I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6JFas_su31I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6JFas_su31I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Oskar1up",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T18:01:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OlRuyBqBKkcyebDmCzyYBCdDjJI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VcsggtPxAMU"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T17:30:09Z",
+                "channelId": "UCPJXhXRkeSXngqwHo2PkncQ",
+                "title": "Big Patch Out Now! No Man&#39;s Sky Worlds Part 2",
+                "description": "The big patch is finally being released for No Man's Sky. This patch has been tested for the previous weeks and now it is public on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VcsggtPxAMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VcsggtPxAMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VcsggtPxAMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jason Plays",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T17:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2t1n4Tqc7ffObE4ryJVBCWGTBi0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OjKJRd6QpVY"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-05T19:12:55Z",
+                "channelId": "UCk1LdRNPylDhOJp-E2zcfYA",
+                "title": "🔥LA MEJOR MULTI para empezar ARRASANDO en No Man&#39;s Sky (Guía y configuración)",
+                "description": "Consigue GRATIS, en clase S y desde el inicio la mejor multiherramienta para matar centinelas de 1 disparo en No Man's Sky!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OjKJRd6QpVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OjKJRd6QpVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OjKJRd6QpVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Oskar1up",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-05T19:12:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vWbGz-B2BpCtjaNXcdabuTb2JuQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cmI-0qEu9cU"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T00:13:51Z",
+                "channelId": "UCbZmmMltAQqaFtjbP0qKONg",
+                "title": "No Man&#39;s Sky - Didn&#39;t Work",
+                "description": "I thought I could hide from cybernetic chicken legs here and I could've gone deeper underground but the planet was wasted ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cmI-0qEu9cU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cmI-0qEu9cU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cmI-0qEu9cU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PSVRQ3S UP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T00:13:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YphlLlLNy03VoPUbsxlSvHmokCg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0stYfbTZ8G0"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-05T11:47:52Z",
+                "channelId": "UCJAyNFlzJDkU4ebLXT6uByQ",
+                "title": "Sean Murray Releases The Patch | You Have Been Waiting For !!! | No Man&#39;s Sky",
+                "description": "NEW MERCH - https://professor-cynical-shop.fourthwall.com/ Support Via Youtube Channel Memberships ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0stYfbTZ8G0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0stYfbTZ8G0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0stYfbTZ8G0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Professor Cynical",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-05T11:47:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XsNaiiauDjUmbkm8Gu4QlIWvkOQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eIY__zPA39c"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T22:00:25Z",
+                "channelId": "UCKmgjADn3zojyDnaeGvQzpQ",
+                "title": "Crafting the Perfect Base: Never have enough iron... #letsplay #no Mans Sky #gaming #videogames",
+                "description": "Join us as we navigate the ups and downs of gathering resources, overcoming challenges, and building our ideal base!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eIY__zPA39c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eIY__zPA39c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eIY__zPA39c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DohVaultPlus+",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T22:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ftkN9JdcH96wsWIcA9kF41sjlEE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7ZSLszxw8bY"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T17:13:14Z",
+                "channelId": "UC9P6pCjmnA21kbvTYPFieTQ",
+                "title": "No Man&#39;s Sky has come a long way. #space #nomanssky #nms #starfield",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7ZSLszxw8bY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7ZSLszxw8bY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7ZSLszxw8bY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Brevosidy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T17:13:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HlTrJ0RW8SheJ8Kd5aDBgztfnmI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G-sOmoOKf-4"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T12:51:52Z",
+                "channelId": "UCG85sla3DCT_8ydjLnK5KiQ",
+                "title": "A SPACE ANOMALY?! | Clipped No Man&#39;s Sky Moments | #torgiebear58 on #Twitch",
+                "description": "So, I don't know how new Anomalys are, but I came accross this one randomlly on my expedition. Honnestly, the coolest thing I've ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G-sOmoOKf-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G-sOmoOKf-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G-sOmoOKf-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TorgieBear58",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T12:51:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "88iJ4lSq8qTOTm8q7609aVjJz8Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Mjdju4qbp20"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-02T17:00:22Z",
+                "channelId": "UCavF9WOUezB1MIOrHDWgNZQ",
+                "title": "Amazing Yellow Sentinel Ship Location: The Ultimate Interceptor Ship Revealed! #nomanssky",
+                "description": "Amazing Yellow & White Sentinel Ship Location: The Ultimate Interceptor Ship Revealed! #nomanssky #sentinel #sclass #best ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mjdju4qbp20/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mjdju4qbp20/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mjdju4qbp20/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Game Hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-02T17:00:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J1bYJz8J4sv70TOWal7Md5cRtHE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zM5nGOLGhDo"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T20:03:54Z",
+                "channelId": "UC2KKDZyvmc5-E4Z_3518MnQ",
+                "title": "Anya Nami - Bread (No Man&#39;s Sky ByteBeat)",
+                "description": "Cover written and recorded in No Man's Sky Original song ➤ https://www.youtube.com/watch?v=J1DAmmROUX8 Vote for my ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zM5nGOLGhDo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zM5nGOLGhDo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zM5nGOLGhDo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Artisan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T20:03:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YcIxVpZLImlfAuzJWb_TWmBYphk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nwATzFYbtPo"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T00:25:17Z",
+                "channelId": "UCM0DeLEPrVGL9I085SHFFNQ",
+                "title": "The best thing to do in no mans sky",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nwATzFYbtPo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nwATzFYbtPo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nwATzFYbtPo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WOLFY GAMING 5000",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T00:25:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6oPm0cd55BVxJh0BsCmCeAU4WT8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bSuCh6OlwSs"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-02T14:59:48Z",
+                "channelId": "UCfV2rwvApIaMWuNVZyPxAHw",
+                "title": "Light No Fire in No Man’s Sky #gaming #lightnofire #nomanssky #art #music #dyingstars",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bSuCh6OlwSs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bSuCh6OlwSs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bSuCh6OlwSs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NeuroDeze",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-02T14:59:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "R13aj45cVAgJwrxYeGx__uOaA9A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P_aD50Ho3Ic"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-05T03:25:11Z",
+                "channelId": "UCavF9WOUezB1MIOrHDWgNZQ",
+                "title": "RARE Sentinel &amp; Giant Hunt in PURPLE SYSTEMS! - No Man&#39;s Sky 5.58 LIVE",
+                "description": "The BEST HUNT for the RAREST Sentinel Ships and the Glorious Giants that hide within the new PURPLE SYSTEMS!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P_aD50Ho3Ic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P_aD50Ho3Ic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P_aD50Ho3Ic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Game Hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-05T03:25:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pGUeIxKWnhw4CWbulsHv96Sq12k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RS6MTD2ncTM"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-02T12:01:31Z",
+                "channelId": "UCoI54x457kI0pJHVasjDgMQ",
+                "title": "No Man’s Sky: Red S-Class Sentinel Ship Location Revealed! 🚀 #nomansky",
+                "description": "RARE S-CLASS SENTINEL SHIP DISCOVERY! I just found this Red S-Class Sentinel Ship in the Euclid Galaxy (1st galaxy) in No ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RS6MTD2ncTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RS6MTD2ncTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RS6MTD2ncTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dr konnichiwa",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-02T12:01:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yeWmcjEMvVcY_4SkE-GEhHH47a8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CKSg82jVvnk"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-02T10:54:04Z",
+                "channelId": "UCWLrQkhipMyBD1qoTWMSndw",
+                "title": "Huge Robot Base - Full Video Out Now - No Man&#39;s Sky",
+                "description": "Quick showcase of one of my base The Celestial Exo in No Man's Sky. Full video Out Now.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CKSg82jVvnk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CKSg82jVvnk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CKSg82jVvnk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "You Brewtea ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-02T10:54:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wYlKHVHNS0kl-QyainhhaKMHdU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b4XnVLhQ95E"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T02:44:41Z",
+                "channelId": "UCApKbknfsMOp2Yq_eCaoruA",
+                "title": "No Man&#39;s Sky - Winter Base by ERBurroughs",
+                "description": "No Man's Sky - Winter Base by ERBurroughs Euclid galaxy.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b4XnVLhQ95E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b4XnVLhQ95E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b4XnVLhQ95E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ERBurroughs",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T02:44:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2AzzSHBpa4M3BhfsjVvMCcfOEtY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mVNLjlsR010"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T17:00:55Z",
+                "channelId": "UCavF9WOUezB1MIOrHDWgNZQ",
+                "title": "Natural S-class Elvis Sentinel Ship Revealed! #nomanssky",
+                "description": "Amazing Yellow & White Sentinel Ship Location: The Ultimate Interceptor Ship Revealed! #nomanssky #sentinel #sclass #best ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mVNLjlsR010/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mVNLjlsR010/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mVNLjlsR010/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Game Hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T17:00:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5_z1YGQgiKvYVteOPJ9dVvmLbdk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1T11p9G-_1g"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-05T13:10:26Z",
+                "channelId": "UCyG7sx68VMrt_QjbWnUWDaQ",
+                "title": "No Man&#39;s Sky is FIXED!!!",
+                "description": "After a month long wait, No Man's Sky has finally received the fixes I've been waiting for! Let's Check it out, together! PS VR ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1T11p9G-_1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1T11p9G-_1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1T11p9G-_1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PSVR Underground",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-05T13:10:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8BCty-fZ-A47RiOVK0NN6ILmmyc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "B_DBL3BThaM"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T16:07:30Z",
+                "channelId": "UCFoEescNlO9FFpqBm4wJvdA",
+                "title": "Playing No Man&#39;s Sky For the FIRST TIME... And It Really IS Insane!",
+                "description": "Hi my name is Damz! Welcome to the channel, No Man's Sky for the first time in 2025! Come join me as I play this amazing game ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B_DBL3BThaM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B_DBL3BThaM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B_DBL3BThaM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NameIsDamz",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T16:07:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KLwJYluHsTMig3YdZQkvpK1ZDr4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9y6a_MnVYn4"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T12:48:45Z",
+                "channelId": "UCG85sla3DCT_8ydjLnK5KiQ",
+                "title": "WELL HOWDY SLAYA! | Clipped No Man&#39;s Sky Moments",
+                "description": "Well, I should of known Slaya was going to pop on in and scare me lmao #shorts #fyp #hudfx #nomanssky #titan #expedition ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9y6a_MnVYn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9y6a_MnVYn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9y6a_MnVYn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TorgieBear58",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T12:48:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UHjuRKMvvDyWzZ97mGS1krA0HFU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FFJbU_DiJbY"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T04:06:52Z",
+                "channelId": "UCavF9WOUezB1MIOrHDWgNZQ",
+                "title": "RARE Sentinel Hunt in PURPLE SYSTEMS! - No Man&#39;s Sky 5.57 LIVE",
+                "description": "The BEST HUNT for the RAREST Sentinel Ships in the new PURPLE SYSTEMS! The Deepest and Biggest Oceans & Caves are ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FFJbU_DiJbY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FFJbU_DiJbY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FFJbU_DiJbY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Game Hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T04:06:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5VGC6VLN_ov4DbS8sLK75uvx_kE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ghZUoXUWPOI"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T04:08:11Z",
+                "channelId": "UCZwGdZz4ejwHQJe5eL7qH4w",
+                "title": "Impressive Ships in No Man&#39;s Sky #NoMansSky #ImpressiveShips #GamingCommunity #SpaceExploration",
+                "description": "Prepare for an exhilarating journey through the universe of No Man's Sky, where stunning ships await your discovery! Witness the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ghZUoXUWPOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ghZUoXUWPOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ghZUoXUWPOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MPR Hustle",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T04:08:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZIEdJrKqHFr7zzl5DQjdb4dJaKI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "peQNC7Sejfs"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-05T16:01:02Z",
+                "channelId": "UC-m82OagJIhS__623aCJm8A",
+                "title": "Getting the Mineral Extractor | No Man&#39;s Sky Ep. 11",
+                "description": "Ni Hao Playlist - https://www.youtube.com/playlist?list=PLIIzELhWuAcbTtDsTNOWhaZhnJPCTHsZT Want to become a jerk today?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/peQNC7Sejfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/peQNC7Sejfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/peQNC7Sejfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "褒WorldClassJerk男",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-05T16:01:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W3kiTJy5a3YhnB5jXJx5qKZm5mA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ADS84PyVVR8"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T17:15:01Z",
+                "channelId": "UCavF9WOUezB1MIOrHDWgNZQ",
+                "title": "No Man&#39;s Sky: Sleek Yellow S Class Sentinel Ship - A Superpowered Marvel!",
+                "description": "No Man's Sky: Sleek Yellow S Class Sentinel Ship Location- A Superpowered Marvel! Euclid Galaxy NMS Update 5.58 #nms ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ADS84PyVVR8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ADS84PyVVR8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ADS84PyVVR8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Game Hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T17:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xFBfCjkyFJMNlQfc0w78HTb04hE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V3TYpm1OV2g"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T12:00:44Z",
+                "channelId": "UCavF9WOUezB1MIOrHDWgNZQ",
+                "title": "You Can Now Catch CRABS in No Man&#39;s Sky&#39;s Update 5.58",
+                "description": "NoMansSky #NMS #SpaceCrabs #DeepSea #Ocean Giant SPACE HELMET CRABS Invading No Man's Sky Ocean Depths!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V3TYpm1OV2g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V3TYpm1OV2g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V3TYpm1OV2g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Game Hub",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T12:00:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HQWIhB28fb1ADfcpndtSZCFLUJQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YHFo5B9dOlc"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T20:34:08Z",
+                "channelId": "UC6VaKq1Gqz_rlVzQk0aTYfQ",
+                "title": "10 First-Wave Exotic Ships  |  No Man&#39;s Sky 2025",
+                "description": "It's never been easier to get your hands on your very own exotic ship in No Man's Sky! Using the Coordinate Exchange, I've found ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YHFo5B9dOlc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YHFo5B9dOlc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YHFo5B9dOlc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Whisky Barrel Gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T20:34:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J5PGOf5e1xXoy3Wt-6XbwmuMXfc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8V3OrC3Ardw"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T16:46:16Z",
+                "channelId": "UCa6y1SW0PIrtlpTXV6rgiQA",
+                "title": "Massive Patch for No Man&#39;s Sky Just Dropped.",
+                "description": "Patch 5.58 for No Man's Sky Worlds Part 2 has just dropped, and it begins a lot of fixes across all platforms. To Support the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8V3OrC3Ardw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8V3OrC3Ardw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8V3OrC3Ardw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Caster Penn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T16:46:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5ZlCbBD6Q6pLAL22RRReqiMEr6g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "10dG8gO24a4"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-02T22:54:18Z",
+                "channelId": "UCTI-_aj4hNkNAN2SaqWoj4A",
+                "title": "What the hell is THAT!? #gaming #nomanssky #gamergirl #gamingshorts",
+                "description": "Giant ass Planet worm! #gamer #gaming #gameplay #nomanssky #nomansky #noman #gamingshorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/10dG8gO24a4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/10dG8gO24a4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/10dG8gO24a4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Glork",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-02T22:54:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TyY7nfTO3eMmFR-Ji9RTjkgA4Og",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v7t7qswfWOA"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T22:07:59Z",
+                "channelId": "UCnRTDMllB_C79Tw4p2-DnRg",
+                "title": "No Man&#39;s Sky PS5",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v7t7qswfWOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v7t7qswfWOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v7t7qswfWOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dark Assassin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T22:07:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IWtNx8AnyQwXacDfwevbPUltWkU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7IJuSStZFoM"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T18:27:41Z",
+                "channelId": "UCcS1qP2cMclrKSmTe2HPcGQ",
+                "title": "Renfail Plays No Man&#39;s Sky Expedition 17: Titan - Part 1",
+                "description": "Let's Play No Man's Sky with Renfail as he dives into the Worlds Part II update and the Expedition 17: Titan adventure. Join as a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7IJuSStZFoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7IJuSStZFoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7IJuSStZFoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Renfail",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T18:27:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SOdvIIJ_GWKfdLtt3zU5X31JyIo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3VCgi00bdww"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-03T16:14:40Z",
+                "channelId": "UCnRTDMllB_C79Tw4p2-DnRg",
+                "title": "No Man&#39;s Sky 🤣🤣🤣🤣",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3VCgi00bdww/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3VCgi00bdww/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3VCgi00bdww/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dark Assassin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-03T16:14:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vBVLnfHKTYTGCVveo59zSdGsr3Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X6p7SaxPYUY"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T01:00:33Z",
+                "channelId": "UCVo61nC8e8A5gG9_vXdIn6w",
+                "title": "AI Shenanigans in No Man&#39;s Sky: Cosmic Comedy",
+                "description": "Explore humorous AI-driven antics in No Man's Sky, where AI introduces unexpected twists to space adventures, creating comedy ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X6p7SaxPYUY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X6p7SaxPYUY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X6p7SaxPYUY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Next-Gen Gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T01:00:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_g0uLKDKH3kCu3R_2TDhH3MZ60g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KDoPW4spNmY"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T19:30:02Z",
+                "channelId": "UCEvPM3KhhNk0oSXvI3bQeCA",
+                "title": "We Found a MASSIVE new ship!  |  No Mans Sky Ep.3",
+                "description": "Today we will be building a robot and finding our new massive freighter as we explore the New Worlds Update II in No Mans Sky, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KDoPW4spNmY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KDoPW4spNmY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KDoPW4spNmY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ginger_Jake",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T19:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gxODnNK5yzX8lNVMjOWvnjQRY80",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X4_4hYF4fkA"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T19:00:28Z",
+                "channelId": "UCAocjfRj_9FXFoh74HDiFkg",
+                "title": "No Man&#39;s Sky is still Amazing 🚀🚀 #NoMansSky #vr #quest #pcvr #gaming #pcgaming #space",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X4_4hYF4fkA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X4_4hYF4fkA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X4_4hYF4fkA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "That Nard Dog",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T19:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sKFLfrgRKCb5gU-PiGqrmlI1WzQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uv_PauptJxI"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T03:26:56Z",
+                "channelId": "UCRyrR2NRgSSxV4ruOfFiTrQ",
+                "title": "Planet named!! #space #adventure #nomanssky #expedition",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uv_PauptJxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uv_PauptJxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uv_PauptJxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Adventures with Dread and Friends",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T03:26:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bRqmiPPlPcTADOjFemDROSfQpfw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zNsgZepY7SA"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-01T13:01:30Z",
+                "channelId": "UCSZrdRcNEU2mr7SjKHTwWUw",
+                "title": "How to get away from sentinels in No Mans Sky",
+                "description": "This is the BEST WAY to get away from sentinels in no mans sky.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zNsgZepY7SA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zNsgZepY7SA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zNsgZepY7SA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Astro The King",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-01T13:01:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qmXzEnWePiF_y2Phm8_b3RY2Pko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y7aHlkbb06c"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T09:50:27Z",
+                "channelId": "UCABqyKFv1l-p0390XSvIDkA",
+                "title": "LT3&#39;s First Journey in No Man&#39;s Sky - Part 19",
+                "description": "Back in the cosmos for another round of No Man's Sky on the PS5, in 2025! The more I explore the universe, the more I uncover.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y7aHlkbb06c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y7aHlkbb06c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y7aHlkbb06c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LightningToast3",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T09:50:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nrf9Aoe8PeSG8koO-ZHs_h2SklQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bgaBLpJz3V8"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-02T01:06:11Z",
+                "channelId": "UCsBBnPQd8zDddJHcW1vo_pA",
+                "title": "Riding A bug in #nomanssky #expedition #ps5 #shorts #fyp",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bgaBLpJz3V8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bgaBLpJz3V8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bgaBLpJz3V8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "mcfleezy 1 star",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-02T01:06:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jVpWECQoVTeEI90cfAtXN_sA_dM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Kfe_rX3yoC4"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T14:56:17Z",
+                "channelId": "UCjVdKBgHpHJ2fTY8157hA9w",
+                "title": "Some No Man&#39;s Sky Adventures  #nomanssky #sargentrusty #rustyraiders",
+                "description": "Just Some Clips On My No Man's Sky Adventures. Come Hang Out With Us Sometime. We Can Also Be Found Here: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Kfe_rX3yoC4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Kfe_rX3yoC4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Kfe_rX3yoC4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sargent Rusty",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T14:56:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JBxtLtpC_mJkde5Bbed3dvMU4zk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-jHHIpF7XSg"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-04T17:40:06Z",
+                "channelId": "UC9P6pCjmnA21kbvTYPFieTQ",
+                "title": "some awesome additions from no Man&#39;s sky worlds 2 update. #nomanssky #nms #space #scifi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-jHHIpF7XSg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-jHHIpF7XSg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-jHHIpF7XSg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Brevosidy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-04T17:40:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sF3Fs-05KuJ6YCJucFxPCaOs25o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mSOdjWww6TE"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-02T11:39:26Z",
+                "channelId": "UCN5xpeTEV6TDt8EUc0ivjpg",
+                "title": "NO MAN&#39;S SKY | Versatile and awesome space exploration",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mSOdjWww6TE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mSOdjWww6TE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mSOdjWww6TE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AW supreme",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-02T11:39:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qWFkH4j3MRAii7WWm4IHisCuokE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HhCTAQIyx6g"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-05T13:35:45Z",
+                "channelId": "UC2KKDZyvmc5-E4Z_3518MnQ",
+                "title": "Warframe - We All Lift Together (No Man&#39;s Sky ByteBeat)",
+                "description": "Cover written and recorded in No Man's Sky Original song ➤ https://www.youtube.com/watch?v=mPTCq3LiZSE Vote for my next ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HhCTAQIyx6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HhCTAQIyx6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HhCTAQIyx6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Artisan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-05T13:35:45Z"
+            }
+        }
+    ]
+}
