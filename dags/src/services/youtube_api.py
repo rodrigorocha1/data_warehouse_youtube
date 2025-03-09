@@ -57,3 +57,11 @@ class YoutubeAPI:
         if response['items'][0]['snippet']['country'] == 'BR':
             return True
         return False
+
+    def buscar_estatisticas_videos(self, id_video: str):
+        request = self.__youtube.videos().list(
+            part='snippet,statistics',
+            id=id_video
+        )
+        response = request.execute()
+        return response
