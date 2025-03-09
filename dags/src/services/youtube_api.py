@@ -1,5 +1,6 @@
 from typing import Any, Dict, Generator
 from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
 from dotenv import load_dotenv
 import os
 load_dotenv()
@@ -22,22 +23,37 @@ class YoutubeAPI:
         """
         next_page_token = None
         while True:
-            request = self.__youtube.search().list(
-                part='snippet',
-                q=assunto,
-                publishedAfter=data_publicacao,  # Formato ISO 8601
-                order='date',
-                pageToken=next_page_token
+            try:
+                request = self.__youtube.search().list(
+                    part='snippet',
+                    q=assunto,
+                    publishedAfter=data_publicacao,  # Formato ISO 8601
+                    order='date',
+                    pageToken=next_page_token
 
-            )
+                )
 
-            response = request.execute()
+                response = request.execute()
 
-            yield from response['items']
-            next_page_token = response['nextPageToken']
-            print(next_page_token)
-            if not next_page_token:
-                break
+                yield from response['items']
+                next_page_token = response['nextPageToken']
+                print(next_page_token)
+                if not next_page_token:
+                    break
+            except HttpError:
+                mensagem = 'Erro ao fazer a requisicao'
+            except KeyError:
+                mensagem = 'Chave inexistente'
+            except ValueError:
+                mensagem = 'Erro no formato de valor'
+            except AttributeError:
+                mensagem = 'Erro de inicialização'
+            except ConnectionError:
+                mensagem = 'Erro de conexão'
+            except TimeoutError:
+                mensagem = 'timeout da api'
+            except Exception as e:
+                mensagem = 'Exceção não mapeada'
 
     def buscar_canais_brasileiros(self, id_canal: str) -> bool:
         """Método para recuperar canais brasileiros
