@@ -38,3 +38,22 @@ class YoutubeAPI:
             print(next_page_token)
             if not next_page_token:
                 break
+
+    def buscar_canais_brasileiros(self, id_canal: str) -> bool:
+        """Método para recuperar canais brasileiros
+
+        Args:
+            id_canal (str): id do canal
+
+        Returns:
+            bool: verdadeiro se o canal for brasileiro, falso caso contrário
+        """
+        request = self.__youtube.channels().list(
+            part='snippet,statistics',
+            id=id_canal
+        )
+
+        response = request.execute()
+        if response['items'][0]['snippet']['country'] == 'BR':
+            return True
+        return False
