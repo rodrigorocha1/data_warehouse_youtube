@@ -1,0 +1,13 @@
+datawarehouse_youtube:
+  target: dev
+  outputs:
+    dev:
+      type: sqlserver
+      driver: 'ODBC Driver 18 for SQL Server' # (The ODBC Driver installed on your system)
+      server: 172.28.1.8
+      port: 1433
+      database: dw_youtube
+      schema: dbo
+      user: sa
+      password: YourStrongP@ssw0rd!
+      encrypt: false
